@@ -1,0 +1,23 @@
+header{
+    background-image: url(drew-coffman-1872.jpg);
+    height: 100vh;  
+}
+.section2{
+    margin: 40px;
+   display: flex;
+}
+.section3{
+    margin: 40px;
+}
+.section6{
+    display: flex;
+    justify-content: space-between;
+    background-color: rgba(141, 65, 7, 0.643);
+    padding: 20px;
+}
+.map{
+    background-image: url(contact-details-map.png);
+}
+nav ul li a {
+    z-index:100px;
+}
